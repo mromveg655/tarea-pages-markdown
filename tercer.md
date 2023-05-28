@@ -1,5 +1,6 @@
-# Tercera página con algunos ejemrplos de encabezados
+# Tercera página con algunos ejemrplos de encabezados.
 
+## Índice
 Ver [pagina 1](/index.md/).
 Ver [pagina 2](/segundo.md/).
 Ver [pagina 3](/tercer.md/).
