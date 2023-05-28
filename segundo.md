@@ -5,4 +5,4 @@
 
 Ver [pagina 1](/index.md/).
 Ver [pagina 2](/segundo.md/).
-Ver [pagina 2](/tercer.md/).
+Ver [pagina 3](/tercer.md/).
